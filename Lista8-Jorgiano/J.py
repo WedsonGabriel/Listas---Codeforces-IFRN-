@@ -11,3 +11,5 @@ if len(voluntarios_sobreviventes) == qtd_voluntarios:
 
 print(*voluntarios_mortos, "")
 
+
+
